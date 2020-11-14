@@ -1,0 +1,70 @@
+html, body, div, p, ul, li, header, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  margin-top: 0.2rem;
+}
+
+a {
+  color: inherit;
+}
+
+header, article {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+header {
+  margin-top: 2em;
+  flex-direction: column;
+  text-align: center;
+}
+
+header h3 {
+  font-weight: normal;
+}
+
+article {
+  padding: 1rem;
+}
+
+article > div {
+  margin-top: 1rem;
+}
+
+article > div.work {
+  margin-top: 3rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px gray dotted;
+}
+
+article h2 {
+  margin-top: 2rem;
+}
+
+article h3 {
+  margin-top: 0.4rem;
+}
+
+article p {
+  margin-top: 1rem;
+}
+
+article ol, article ul {
+  list-style: none;
+}
+
+article dt {
+  margin-top: 0.8rem;
+}
+
+article dl.personal dt {
+  font-weight: 600;
+}
+
+article li {
+  margin-top: 0.8rem;
+  overflow-wrap: break-word;
+}

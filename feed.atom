@@ -2,12 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
-  <updated>2020-08-16T14:16:51Z</updated>
+  <updated>2020-11-22T16:43:23Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>Android quick settings tile that [dis]connects a Bluetooth headset</title>
+  <link href="https://luckypines.com/blog/20201122-bt-toggle"/>
+  <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+  <updated>2020-11-22T16:43:23Z</updated>
+  <summary>I wrote a simple Android app in Kotlin for the first time in months for myself to get used to the current Kotlin development again</summary>
+</entry>
+
 <entry>
   <title>M5StickCとMH-Z19Bで部屋の二酸化炭素を計測して記録する</title>
   <link href="https://luckypines.com/blog/20200815-m5stickc-mhz19b"/>

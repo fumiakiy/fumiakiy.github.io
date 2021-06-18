@@ -3,12 +3,20 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2020-11-22T16:43:23Z</updated>
+  <updated>2021-06-13T22:49:20Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>ニューヨークで運転免許取得へ動き出した</title>
+  <link href="https://luckypines.com/blog/2021-06-13_five-hour-course-drivers-license-ny"/>
+  <id>urn:uuid:845a7a4e-7160-5f53-9807-291a56fdeb50</id>
+  <updated>2021-06-13T22:49:20Z</updated>
+  <summary>ニューヨーク州で運転免許を取得するための次のフェーズ、5時間講習を受講した話</summary>
+</entry>
+
 <entry>
   <title>Android quick settings tile that [dis]connects a Bluetooth headset</title>
   <link href="https://luckypines.com/blog/20201122-bt-toggle"/>

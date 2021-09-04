@@ -3,12 +3,20 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2021-06-13T22:49:20Z</updated>
+  <updated>2021-09-03T14:03:09Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>Custom async iterator in JavaScript</title>
+  <link href="https://luckypines.com/blog/js-til-2021-09-03"/>
+  <id>urn:uuid:ffb13ae4-9c2d-528a-9a9d-2bcdfc0eef80</id>
+  <updated>2021-09-03T14:03:09Z</updated>
+  <summary>Today I learned how to implement and use an custom async iterator in JavaScript.</summary>
+</entry>
+
 <entry>
   <title>ニューヨークで運転免許取得へ動き出した</title>
   <link href="https://luckypines.com/blog/2021-06-13_five-hour-course-drivers-license-ny"/>

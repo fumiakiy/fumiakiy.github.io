@@ -3,18 +3,42 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2021-09-03T14:03:09Z</updated>
+  <updated>2021-10-23T14:59:52Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
 <entry>
+  <title>ニューヨークで運転免許を取得した</title>
+  <link href="https://luckypines.com/blog/2021-10-21-dmv-road-test-astoria-heights-2"/>
+  <id>urn:uuid:15894917-136d-5fb8-84b8-e70a2b79c78b</id>
+  <updated>2021-10-23T14:59:52Z</updated>
+  <summary>ニューヨーク州の運転免許を取得できた話</summary>
+</entry>
+
+<entry>
   <title>Custom async iterator in JavaScript</title>
   <link href="https://luckypines.com/blog/js-til-2021-09-03"/>
   <id>urn:uuid:ffb13ae4-9c2d-528a-9a9d-2bcdfc0eef80</id>
   <updated>2021-09-03T14:03:09Z</updated>
   <summary>Today I learned how to implement and use an custom async iterator in JavaScript.</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで運転免許取得のための路上試験を受けて落ちた</title>
+  <link href="https://luckypines.com/blog/2021-08-27-dmv-road-test-astoria-heights-1"/>
+  <id>urn:uuid:a9a3c7e2-f9d8-5af2-8e46-64a0c0ecdb17</id>
+  <updated>2021-08-27T18:00:52Z</updated>
+  <summary>ニューヨーク州の運転免許を取得するために、路上試験を受けて落ちた話</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで運転免許取得のためのレッスンを受けた</title>
+  <link href="https://luckypines.com/blog/2021-08-26-driving-lessons-in-nyc"/>
+  <id>urn:uuid:26fe1aa3-02b8-57c6-8f48-f2e2a3814454</id>
+  <updated>2021-08-26T23:34:52Z</updated>
+  <summary>ニューヨーク州で運転免許を取得するために、90分の教習を2回受講した話</summary>
 </entry>
 
 <entry>

@@ -3,12 +3,20 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2021-11-21T21:20:41Z</updated>
+  <updated>2022-01-17T20:24:09Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>壁に埋め込まれている電気のスイッチをHomekit対応のものに入れ替えた</title>
+  <link href="https://luckypines.com/blog/meross-smart-wall-switch-1"/>
+  <id>urn:uuid:ca90c6b3-9945-57b7-80db-00be103dbd3f</id>
+  <updated>2022-01-17T20:24:09Z</updated>
+  <summary>スマートホーム的な何かをもう少しやってみるために、壁のスイッチを取り替えてみた。</summary>
+</entry>
+
 <entry>
   <title>米国永住権（グリーンカード）取得顛末記 <2018-2021></title>
   <link href="https://luckypines.com/blog/green-card-2018-2021-11-2"/>

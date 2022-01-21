@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+
+<head prefix="og: https://ogp.me/ns#">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-50700-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-50700-3');
+  </script>
+  <title>CV - Fumiaki Yoshimatsu</title>
+  <meta name="description" content="Fumiaki Yoshimatsu | Senior Software Engineer">
+  <meta property="og:image" content="https://luckypines.com/images/profile.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://luckypines.com/cv.html">
+  <link rel="stylesheet" href="resume.css" type="text/css">
+</head>
+
+<body>
+  <header>
+    <h1>Fumiaki Yoshimatsu</h1>
+    <h2>Senior Software Enginner</h2>
+    <h3><a href="mailto:fumiakiy@luckypines.com">fumiakiy@luckypines.com</a></h3>
+    <h3><a href="https://www.luckypines.com/">https://www.luckypines.com/</a></h3>
+    <h3><a href="https://github.com/fumiakiy">https://github.com/fumiakiy/</a></h3>
+  </header>
+  <article>
+    <h2>Work Experience</h2>
+    <div class="work">
+      <h3>Senior Software Engineer, Incubator division, I&CO (formerly Inamoto & Co.), October 2019 -</h3>
+      <h3>Android Engineer, Incubator division, I&CO (formerly Inamoto & Co.), August 2017 - September 2019</h3>
+      <p>
+        I wear many hats in this job. I do all kinds of works related to software engineering including multiple Android
+        and iOS apps, websites using React, and macOS applications/frameworks using Objective-C and Swift.
+      </p>
+      <h3>Examples of the projects</h3>
+      <dl>
+        <dt><a href="https://www.producthunt.com/posts/mado">Mado</a></dt>
+        <dd>A 1:1 video chat app focusing on grandparents to grandchildren communication</dd>
+        <dt><a href="https://play.google.com/store/apps/details?id=co.inamoto.tinyglo.android">TinyGlo</a></dt>
+        <dd>Subtle but fun night light app that uses the phones' screen as an ambient light</dd>
+        <dt><a href="https://tinylog.iandco.com/">Tiny Log</a></dt>
+        <dd>Send texts (SMS) to Tiny Log and it understands what your baby is doing at the moment, and log them so you can see the timeline later on the web or as a SMS message.</dd>
+        <dt><a href="https://keygaroo.iandco.com/">Keygaroo</a></dt>
+        <dd>A Sketch plugin written in Objective-C that helps you learn the shortcut keys by detecting what you do in Sketch and let you know the equivalent shortcut key combination of the task.</dd>
+      </dl>
+      <h3>Other notable projects</h3>
+      <dl>
+        <dt>Family Calendar</dt>
+        <dd>A system backed by a suite of a React based website, Google Apps Script to automate Gmail inbox, Firebase Functions, Firebase Cloud Firestore and Firebase Authentication, that allows users to forward any emails related to a family's schedule to automatically generate a shared calendar view for the events by parsing the contents of the emails.</dd>
+        <dt>OAuth2 endpoints backed by Firebase Authentication</dt>
+        <dd>The Family Calendar adds an endpoint by that users can post texts that may contain information about events via IFTTT. In order to authenticate the requests the backend needed to implement OAuth2 authrization but Firebase Authentication is not compatible with OAuth2. I wrote a simple wrapper of it so that it behaves as an OAuth2 endpoint so that IFTTT can send authorized requests to the service.</dd>
+        <dt>Font Animator App</dt>
+        <dd>Take any fonts and type in some texts, and the Android and the iOS apps make the text animate like a person is writing it. The apps can save the animation in GIF, SVG or in MP4.</dd>
+        <dt>Dinner Deals</dt>
+        <dd>A combination of a backend that collects weekly deals from grocery stores and a frontend that lets shoppers browse those deals easily by swiping left and right. Those swipes tell the system what the shopper would want in the future.</dd>
+      </dl>
+      <h3>Teck Talk presentations</h3>
+      <p>As a resident tech person, I gave presentations to the colleagues in Tech Talk sessions. The titles include:</p>
+      <dl>
+        <dt>What is 5G and what businesses can do with it (Nov 2020)</dt>
+        <dd>Overview of 5G technoogy and why it is not really about consumer phones getting faster (eMBB) but gets more important when mMTC and URLLC are realized, and what is the implications of them for your privacy.</dd>
+        <dt>Cryptography in the context of Internet security (Apr 2020)</dt>
+        <dd>General overview of what consist of Internet security, including encryption, DH key exchange, PKI, hashing and blockchain.</dd>
+        <dt>TypeScript (Jun 2019)</dt>
+        <dd>Introduction to TypeScript, to the other software engineers in the office</dd>
+        <dt>Elimating passwords with biometric login (Apr 2019)</dt>
+        <dd>General overviews of how passwords evolved, what is 2FA and why passwords are going away and FIDO2 implementations are coming.</dd>
+      </dl>
+    </div>
+    <div class="work">
+      <h3>Senior Software Engineer, Peatix Inc, April 2011 - August 2017</h3>
+      <h3>Senior Software Engineer, Orinoco KK, July 2010 - August 2017</h3>
+      <p>Though not in my title, I was <em>the</em> technical founding member of Peatix. Since I started to write the
+        first line of code for the service, I architect its system design including on which server in a network to put
+        a
+        particular component, and object oriented design of each component, and coding style of each line of code. I was
+        also a primary software engineer of its iOS app _and_ two Android apps. I was the devops of the service; on-call
+        24/7 fix bugs and respond to escalation call from customer support center. Orinoco KK became Peatix Inc.</p>
+
+      <p>Since the company decided to offer Peatix at around December 2010, a premier online event management and
+        ticketing service, I have single-handedly architected, designed and wrote code from the scratch for the service,
+        ground up based on Perl/Catalyst, MySQL, Memcached. Since the launch of the service, it expands its reach beyond
+        Japan to Asia (Singapore, Malaysia, Australia...) and Europe, and the US, hosted more than 250,000 events,
+        attended by more than 2,000,000 users.</p>
+
+      <p>Our two Android apps (one for event attendees and the other for event organizers) were completely written
+        solely
+        by me. The first version was built and shipped during pre-GingerBread era, but I used my spare time and weekend
+        to
+        rebuild it to then-new Material Design based and shipped it in 2 months.</p>
+
+      <p>I have written more than 80% of its codebase since launch for 7 years, including but not limited to fairly new
+        parts such as the search page which consist of AngularJS backed frontend and Twiggy backed non-blocking web
+        technology (HTML5 SSE). I was also one of the three software engineers who write code for our iOS apps. I have
+        also been mostly if not the only person who works as an operations engineer for the service, playing as a one
+        stop
+        technical contact for the other team members such as sales, marketing and customer support.
+      <p>
+
+      <p>Presented Peatix at NY Tech Meetup (April 2014).
+      <ul>
+        <li><a
+            href="http://reimaginetech.com/ny-tech-meetup-audience-app-favorites-different-rest/">http://reimaginetech.com/ny-tech-meetup-audience-app-favorites-different-rest/</a>
+        </li>
+        <li><a
+            href="http://blog.peatix.com/article/we-totally-presented-at-the-march-ny-tech-meetup">http://blog.peatix.com/article/we-totally-presented-at-the-march-ny-tech-meetup</a>
+        </li>
+      </ul>
+      </p>
+      <p>Gave a talk at New York Perl Mongers meetup (August 2014).
+      <ul>
+        <li><a
+            href="http://www.meetup.com/The-New-York-Perl-Meetup-Group/events/200734792/">http://www.meetup.com/The-New-York-Perl-Meetup-Group/events/200734792/</a>
+        </li>
+      </ul>
+      </p>
+    </div>
+    <div class="work">
+
+      <h3>Corporate Officer, TypePad, Six Apart KK, February 2009 - June 2010</h3>
+      <p>Managed a team of engineers responsible for the planning, design, implementation, testing and shipping of a
+        blog-CMS web service. Report lines included Product Management, Engineering, Quality Assurance, Operations and
+        Customer Support personnel.</p>
+      <p>Oversaw software development projects from the planning stages to shipping and support, including all related
+        activities including design, developing specifications, writing codes, coordination of quality assurance
+        activates, and operation of hosted services while performing high-level engineering tasks as necessary.</p>
+      <h3>Director of engineering, Six Apart KK, May 2006, February 2009</h3>
+      <h3>Engineering Manager, Six Apart KK, December 2005 - April 2006</h3>
+      <p>Launched its US version of the blog service in Japan. I was the project lead.</p>
+
+      <p>Acted as an engineer working remotely for its US version of the service. I had primarily been assigned to
+        fixing
+        bugs and implementing features escalated from Japanese customers. I had also been the translator responsible for
+        ja locale. Director of Operations of the service had also been in my title for which I had been responsible for
+        escalation from Japanese customers and customer support team.</p>
+
+      <p>Co-led internationally distributed engineering team which implemented the world's most sophisticated blog-CMS
+        software by using Perl, PHP, JavaScript and a few markup languages. I also worked for the team as the primary
+        engineer of its Enterprise portion of code and other core features such as in-app search, revision control and
+        OpenID.</p>
+
+      <p>Shipped all versions of Movable Type since version 3.3 until version 5.0 as engineering manager.
+      <ul>
+        <li><a href="http://www.movabletype.com/">http://www.movabletype.com/</a></li>
+        <li><a href="https://github.com/sixapart">https://github.com/sixapart</a></li>
+        <li><a href="https://github.com/movabletype">https://github.com/movabletype</a></li>
+      </ul>
+      </p>
+
+      <p>Served as a technical liaison between Six Apart's offices in the U.S. and Japan.</p>
+
+      <p>Gave a talk at YAPC::Asia 2008 "Hacking Movable Type".
+      <ul>
+        <li><a href="http://conferences.yapcasia.org/ya2008/talk/1005">http://conferences.yapcasia.org/ya2008/talk/1005</a></li>
+      </ul>
+      </p>
+    </div>
+    <div>
+
+      <h3>Amazon Web Services Technical Evangelist, Amazon.co.jp, February 2004, August 2005</h3>
+      <p>Was the liaison for Japanese Amazon Web Services developers on the online forum and emails, to
+        provide technical support.</p>
+
+      <p>Spoke at conferences about "Real World Web Services" in general and Amazon Web Services. Some include IDG Web
+        Services Conference, Shoeisha's Developers Summit, and NikkeiBP's Technology Forums and more. The theme
+        sometimes
+        is not only Amazon Web Services but general Amazon.com stance on technology.</p>
+
+      <p>Worked as an "ambassador" of Amazon.com technology for Amazon Japan office.</p>
+
+      <p>Created sample applications using various programming languages including Perl, PHP, C#, VB.NET, Java,
+        JavaScript
+        and C++.</p>
+
+      <p>Helped designing new APIs for Amazon Web Services development team.</p>
+    </div>
+    <h2>Personal Projects</h2>
+    <dl class="personal">
+      <dt>Jacquard by Google(tm) unofficial SDK for Android</dt>
+      <dd>
+        <p><a href="https://github.com/fumiakiy/JacquardLib">https://github.com/fumiakiy/JacquardLib</a></p>
+        <p>Created a library that allows apps to communicate with a Levi's jacket powered by Google Jacquard.</p>
+        <p>I created the library by watching how the jacket and the official app communicates over Bluetooth, analyzed
+          what data mean what, and reproduce the knowledge as an Android library.</p>
+      </dd>
+      <dt>Variety of OpenID/OAuth/Other Open API related works</dt>
+      <dd>
+        <p>including Python Client of Foursquare API, Twitter plugins for Movable Type, etc.</p>
+      </dd>
+      <dt>Other notable projects</dt>
+      <dd>
+        <p>Many Movable Type plugins</p>
+        <p>Internet Explorer Toolbar enables vertical search by OpenSearch compliant search engines</p>
+        <p>Photo uploader using Atom Publishing API, compatible with TypePad and Hatena Fotolife</p>
+        <p>iTunes Visual Plugin which searches and shows album artwork using then "Amazon Web Services" (now e-commerce
+          service)</p>
+      </dd>
+    </dl>
+    <h2>Education</h2>
+    <div>
+      <p>Bachelor of Liberal Arts, International Christian University Tokyo, 1994<br />
+        Major: Communication/Journalism</p>
+
+    </div>
+    <h2>Languages</h2>
+    <div>
+      <p>Japanese and English (TOEIC 935, 2002)</p>
+    </div>
+  </article>
+</body>
+
+</html>

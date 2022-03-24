@@ -3,7 +3,10 @@ html, body, div, p, ul, li, header, h1, h2, h3, h4 {
   padding: 0;
 }
 
-h1, h2, h3 {
+h1, h2 {
+  margin-top: 0.4rem;
+}
+h3 {
   margin-top: 0.2rem;
 }
 
@@ -37,15 +40,19 @@ article > div {
 article > div.work {
   margin-top: 3rem;
   padding-bottom: 1rem;
-  border-bottom: 2px gray dotted;
+  /* border-bottom: 2px gray dotted; */
 }
 
-article h2 {
-  margin-top: 2rem;
+article h2:not(:first-child) {
+  margin-top: 6rem;
 }
 
 article h3 {
   margin-top: 0.4rem;
+}
+
+article h4 {
+  margin-top: 2rem;
 }
 
 article p {
@@ -58,6 +65,10 @@ article ol, article ul {
 
 article dt {
   margin-top: 0.8rem;
+}
+
+article dl.personal {
+  margin-top: 1.8rem;
 }
 
 article dl.personal dt {

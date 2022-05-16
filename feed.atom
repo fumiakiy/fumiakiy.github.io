@@ -3,12 +3,20 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2022-01-17T20:24:09Z</updated>
+  <updated>2022-05-16T04:00:00Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>転職した</title>
+  <link href="https://luckypines.com/blog/job-change-20220516"/>
+  <id>urn:uuid:60db8d94-9d37-5a86-8845-c6ebe9a29c67</id>
+  <updated>2022-05-16T04:00:00Z</updated>
+  <summary>ソフトウェアエンジニアとして再出発します。</summary>
+</entry>
+
 <entry>
   <title>壁に埋め込まれている電気のスイッチをHomekit対応のものに入れ替えた</title>
   <link href="https://luckypines.com/blog/meross-smart-wall-switch-1"/>

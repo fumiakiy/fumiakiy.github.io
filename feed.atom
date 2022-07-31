@@ -3,12 +3,20 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2022-05-16T04:00:00Z</updated>
+  <updated>2022-07-31T19:13:41Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>カリフォルニアへ引っ越そうかなと思った</title>
+  <link href="https://luckypines.com/blog/moving-1-20220731"/>
+  <id>urn:uuid:9e0c1ead-7337-5904-a798-af6564a763a9</id>
+  <updated>2022-07-31T19:13:41Z</updated>
+  <summary>カリフォルニアへ引っ越すことにして、場所を決めて内見ツアーを組んでみました。</summary>
+</entry>
+
 <entry>
   <title>転職した</title>
   <link href="https://luckypines.com/blog/job-change-20220516"/>

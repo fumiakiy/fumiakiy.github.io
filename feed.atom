@@ -3,12 +3,52 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2022-08-13T22:16:04Z</updated>
+  <updated>2022-09-17T22:06:25Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>カリフォルニアで運転免許を取った</title>
+  <link href="https://luckypines.comdrivers-license-ca-dmv-20220917"/>
+  <id>urn:uuid:aeb6053d-5f9a-5ef0-8320-c73be6bf51fc</id>
+  <updated>2022-09-17T22:06:25Z</updated>
+  <summary>カリフォルニアのドライバーになりました</summary>
+</entry>
+
+<entry>
+  <title>カリフォルニアで車を買った</title>
+  <link href="https://luckypines.com/blog/bought-mini-cooper-s-20220910"/>
+  <id>urn:uuid:91dd0a00-3767-5cfc-9e40-36bfc4585b40</id>
+  <updated>2022-09-11T01:39:13Z</updated>
+  <summary>アメリカでミニに乗るやつになりました</summary>
+</entry>
+
+<entry>
+  <title>引っ越し先へ入居した</title>
+  <link href="https://luckypines.com/blog/moving-6-20220905"/>
+  <id>urn:uuid:3bff8439-79f9-5cba-aca7-aa3063f80c4d</id>
+  <updated>2022-09-06T01:25:09Z</updated>
+  <summary>カリフォルニア州民になりました</summary>
+</entry>
+
+<entry>
+  <title>引っ越し当日になった</title>
+  <link href="https://luckypines.com/blog/moving-5-20220904"/>
+  <id>urn:uuid:9aac82bd-6c5a-5daf-90af-3e4b33ae2051</id>
+  <updated>2022-09-05T01:56:17Z</updated>
+  <summary>いよいよ引っ越しの日になりました</summary>
+</entry>
+
+<entry>
+  <title>引っ越し業者を探して荷物を梱包した</title>
+  <link href="https://luckypines.com/blog/moving-4-20220831"/>
+  <id>urn:uuid:4c202c3e-783a-5101-97b3-bf9bd0261658</id>
+  <updated>2022-09-01T06:07:33Z</updated>
+  <summary>大陸横断引っ越しで荷物を運んでくれる会社を探しました。</summary>
+</entry>
+
 <entry>
   <title>カリフォルニアの引っ越し先を決めた</title>
   <link href="https://luckypines.com/blog/moving-3-20220813"/>

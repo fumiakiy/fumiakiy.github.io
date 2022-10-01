@@ -3,12 +3,20 @@
   <title>Blog by Fumiaki Yoshimatsu</title>
   <link href="https://luckypines.com/blog"/>
   <link rel="self" href="https://luckypines.com/feed.atom"/>
-  <updated>2022-09-17T22:06:25Z</updated>
+  <updated>2022-10-01T20:38:23Z</updated>
   <author>
     <name>Fumiaki Yoshimatsu</name>
   </author>
   <id>urn:uuid:04aa0189-25c9-422b-b6a0-af7b9eb962df</id>
   
+<entry>
+  <title>自転車に再び乗り始めた</title>
+  <link href="https://luckypines.com/blog/resuming-bike-ride-20221001"/>
+  <id>urn:uuid:856041a2-da6b-50ef-aa68-00305b2b1e2b</id>
+  <updated>2022-10-01T20:38:23Z</updated>
+  <summary>週末に気軽に自転車で出かけられるようになりました</summary>
+</entry>
+
 <entry>
   <title>カリフォルニアで運転免許を取った</title>
   <link href="https://luckypines.comdrivers-license-ca-dmv-20220917"/>

@@ -18,11 +18,35 @@
 </entry>
 
 <entry>
+  <title>自転車に再び乗り始めた</title>
+  <link href="https://luckypines.com/blog/resuming-bike-ride-20221001"/>
+  <id>urn:uuid:856041a2-da6b-50ef-aa68-00305b2b1e2b</id>
+  <updated>2022-10-01T20:38:23Z</updated>
+  <summary>週末に気軽に自転車で出かけられるようになりました</summary>
+</entry>
+
+<entry>
   <title>カリフォルニアで運転免許を取った</title>
   <link href="https://luckypines.comdrivers-license-ca-dmv-20220917"/>
   <id>urn:uuid:aeb6053d-5f9a-5ef0-8320-c73be6bf51fc</id>
   <updated>2022-09-17T22:06:25Z</updated>
   <summary>カリフォルニアのドライバーになりました</summary>
+</entry>
+
+<entry>
+  <title>カリフォルニアで運転免許を取った</title>
+  <link href="https://luckypines.comdrivers-license-ca-dmv-20220917"/>
+  <id>urn:uuid:aeb6053d-5f9a-5ef0-8320-c73be6bf51fc</id>
+  <updated>2022-09-17T22:06:25Z</updated>
+  <summary>カリフォルニアのドライバーになりました</summary>
+</entry>
+
+<entry>
+  <title>カリフォルニアで車を買った</title>
+  <link href="https://luckypines.com/blog/bought-mini-cooper-s-20220910"/>
+  <id>urn:uuid:91dd0a00-3767-5cfc-9e40-36bfc4585b40</id>
+  <updated>2022-09-11T01:39:13Z</updated>
+  <summary>アメリカでミニに乗るやつになりました</summary>
 </entry>
 
 <entry>
@@ -42,11 +66,35 @@
 </entry>
 
 <entry>
+  <title>引っ越し先へ入居した</title>
+  <link href="https://luckypines.com/blog/moving-6-20220905"/>
+  <id>urn:uuid:3bff8439-79f9-5cba-aca7-aa3063f80c4d</id>
+  <updated>2022-09-06T01:25:09Z</updated>
+  <summary>カリフォルニア州民になりました</summary>
+</entry>
+
+<entry>
   <title>引っ越し当日になった</title>
   <link href="https://luckypines.com/blog/moving-5-20220904"/>
   <id>urn:uuid:9aac82bd-6c5a-5daf-90af-3e4b33ae2051</id>
   <updated>2022-09-05T01:56:17Z</updated>
   <summary>いよいよ引っ越しの日になりました</summary>
+</entry>
+
+<entry>
+  <title>引っ越し当日になった</title>
+  <link href="https://luckypines.com/blog/moving-5-20220904"/>
+  <id>urn:uuid:9aac82bd-6c5a-5daf-90af-3e4b33ae2051</id>
+  <updated>2022-09-05T01:56:17Z</updated>
+  <summary>いよいよ引っ越しの日になりました</summary>
+</entry>
+
+<entry>
+  <title>引っ越し業者を探して荷物を梱包した</title>
+  <link href="https://luckypines.com/blog/moving-4-20220831"/>
+  <id>urn:uuid:4c202c3e-783a-5101-97b3-bf9bd0261658</id>
+  <updated>2022-09-01T06:07:33Z</updated>
+  <summary>大陸横断引っ越しで荷物を運んでくれる会社を探しました。</summary>
 </entry>
 
 <entry>
@@ -66,11 +114,35 @@
 </entry>
 
 <entry>
+  <title>カリフォルニアの引っ越し先を決めた</title>
+  <link href="https://luckypines.com/blog/moving-3-20220813"/>
+  <id>urn:uuid:43eeb00f-871e-5199-9763-45cba1d79b03</id>
+  <updated>2022-08-13T22:16:04Z</updated>
+  <summary>カリフォルニアでどこに住むか決めました。</summary>
+</entry>
+
+<entry>
   <title>カリフォルニアで引っ越し先を探した</title>
   <link href="https://luckypines.com/blog/moving-2-20220807"/>
   <id>urn:uuid:48e87dc1-d70f-5160-87bd-9c4aaed23718</id>
   <updated>2022-08-07T21:34:11Z</updated>
   <summary>カリフォルニアへ出かけてアパートの内見ツアーをしてきました。</summary>
+</entry>
+
+<entry>
+  <title>カリフォルニアで引っ越し先を探した</title>
+  <link href="https://luckypines.com/blog/moving-2-20220807"/>
+  <id>urn:uuid:48e87dc1-d70f-5160-87bd-9c4aaed23718</id>
+  <updated>2022-08-07T21:34:11Z</updated>
+  <summary>カリフォルニアへ出かけてアパートの内見ツアーをしてきました。</summary>
+</entry>
+
+<entry>
+  <title>カリフォルニアへ引っ越そうかなと思った</title>
+  <link href="https://luckypines.com/blog/moving-1-20220731"/>
+  <id>urn:uuid:9e0c1ead-7337-5904-a798-af6564a763a9</id>
+  <updated>2022-07-31T19:13:41Z</updated>
+  <summary>カリフォルニアへ引っ越すことにして、場所を決めて内見ツアーを組んでみました。</summary>
 </entry>
 
 <entry>
@@ -90,11 +162,35 @@
 </entry>
 
 <entry>
+  <title>転職した</title>
+  <link href="https://luckypines.com/blog/job-change-20220516"/>
+  <id>urn:uuid:60db8d94-9d37-5a86-8845-c6ebe9a29c67</id>
+  <updated>2022-05-16T04:00:00Z</updated>
+  <summary>ソフトウェアエンジニアとして再出発します。</summary>
+</entry>
+
+<entry>
   <title>壁に埋め込まれている電気のスイッチをHomekit対応のものに入れ替えた</title>
   <link href="https://luckypines.com/blog/meross-smart-wall-switch-1"/>
   <id>urn:uuid:ca90c6b3-9945-57b7-80db-00be103dbd3f</id>
   <updated>2022-01-17T20:24:09Z</updated>
   <summary>スマートホーム的な何かをもう少しやってみるために、壁のスイッチを取り替えてみた。</summary>
+</entry>
+
+<entry>
+  <title>壁に埋め込まれている電気のスイッチをHomekit対応のものに入れ替えた</title>
+  <link href="https://luckypines.com/blog/meross-smart-wall-switch-1"/>
+  <id>urn:uuid:ca90c6b3-9945-57b7-80db-00be103dbd3f</id>
+  <updated>2022-01-17T20:24:09Z</updated>
+  <summary>スマートホーム的な何かをもう少しやってみるために、壁のスイッチを取り替えてみた。</summary>
+</entry>
+
+<entry>
+  <title>米国永住権（グリーンカード）取得顛末記 <2018-2021></title>
+  <link href="https://luckypines.com/blog/green-card-2018-2021-11-2"/>
+  <id>urn:uuid:dc2658fc-b69e-5f99-bb7c-c9f3969e8ce2</id>
+  <updated>2021-11-21T21:20:41Z</updated>
+  <summary>ごく普通の日本人ソフトウェアエンジニアが就労ビザで米国に渡って8年、とうとう永住権を取得するまでの長くて読み応えのない感想文です。</summary>
 </entry>
 
 <entry>
@@ -114,11 +210,35 @@
 </entry>
 
 <entry>
+  <title>米国永住権（グリーンカード）を取得した <2018-2021></title>
+  <link href="https://luckypines.com/blog/green-card-2018-2021-11-1"/>
+  <id>urn:uuid:dc272fab-c7f3-5a69-a74f-61e672101990</id>
+  <updated>2021-11-21T21:18:31Z</updated>
+  <summary>ごく普通の日本人ソフトウェアエンジニアが就労ビザで米国に渡って8年、とうとう永住権を取得しました。</summary>
+</entry>
+
+<entry>
   <title>ニューヨークで運転免許を取得した</title>
   <link href="https://luckypines.com/blog/2021-10-21-dmv-road-test-astoria-heights-2"/>
   <id>urn:uuid:15894917-136d-5fb8-84b8-e70a2b79c78b</id>
   <updated>2021-10-23T14:59:52Z</updated>
   <summary>ニューヨーク州の運転免許を取得できた話</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで運転免許を取得した</title>
+  <link href="https://luckypines.com/blog/2021-10-21-dmv-road-test-astoria-heights-2"/>
+  <id>urn:uuid:15894917-136d-5fb8-84b8-e70a2b79c78b</id>
+  <updated>2021-10-23T14:59:52Z</updated>
+  <summary>ニューヨーク州の運転免許を取得できた話</summary>
+</entry>
+
+<entry>
+  <title>Custom async iterator in JavaScript</title>
+  <link href="https://luckypines.com/blog/js-til-2021-09-03"/>
+  <id>urn:uuid:ffb13ae4-9c2d-528a-9a9d-2bcdfc0eef80</id>
+  <updated>2021-09-03T14:03:09Z</updated>
+  <summary>Today I learned how to implement and use an custom async iterator in JavaScript.</summary>
 </entry>
 
 <entry>
@@ -138,11 +258,35 @@
 </entry>
 
 <entry>
+  <title>ニューヨークで運転免許取得のための路上試験を受けて落ちた</title>
+  <link href="https://luckypines.com/blog/2021-08-27-dmv-road-test-astoria-heights-1"/>
+  <id>urn:uuid:a9a3c7e2-f9d8-5af2-8e46-64a0c0ecdb17</id>
+  <updated>2021-08-27T18:00:52Z</updated>
+  <summary>ニューヨーク州の運転免許を取得するために、路上試験を受けて落ちた話</summary>
+</entry>
+
+<entry>
   <title>ニューヨークで運転免許取得のためのレッスンを受けた</title>
   <link href="https://luckypines.com/blog/2021-08-26-driving-lessons-in-nyc"/>
   <id>urn:uuid:26fe1aa3-02b8-57c6-8f48-f2e2a3814454</id>
   <updated>2021-08-26T23:34:52Z</updated>
   <summary>ニューヨーク州で運転免許を取得するために、90分の教習を2回受講した話</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで運転免許取得のためのレッスンを受けた</title>
+  <link href="https://luckypines.com/blog/2021-08-26-driving-lessons-in-nyc"/>
+  <id>urn:uuid:26fe1aa3-02b8-57c6-8f48-f2e2a3814454</id>
+  <updated>2021-08-26T23:34:52Z</updated>
+  <summary>ニューヨーク州で運転免許を取得するために、90分の教習を2回受講した話</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで運転免許取得へ動き出した</title>
+  <link href="https://luckypines.com/blog/2021-06-13_five-hour-course-drivers-license-ny"/>
+  <id>urn:uuid:845a7a4e-7160-5f53-9807-291a56fdeb50</id>
+  <updated>2021-06-13T22:49:20Z</updated>
+  <summary>ニューヨーク州で運転免許を取得するための次のフェーズ、5時間講習を受講した話</summary>
 </entry>
 
 <entry>
@@ -162,11 +306,35 @@
 </entry>
 
 <entry>
+  <title>Android quick settings tile that [dis]connects a Bluetooth headset</title>
+  <link href="https://luckypines.com/blog/20201122-bt-toggle"/>
+  <id>urn:uuid:29b99bdc-179e-5446-aac8-d529a256b12e</id>
+  <updated>2020-11-22T16:43:23Z</updated>
+  <summary>I wrote a simple Android app in Kotlin for the first time in months for myself to get used to the current Kotlin development again</summary>
+</entry>
+
+<entry>
   <title>M5StickCとMH-Z19Bで部屋の二酸化炭素を計測して記録する</title>
   <link href="https://luckypines.com/blog/20200815-m5stickc-mhz19b"/>
   <id>urn:uuid:64329c93-59c8-55c6-9bf9-93ef1f6469c4</id>
   <updated>2020-08-16T14:16:51Z</updated>
   <summary>MH-Z19BをM5StickCに接続して、CO2センサーのデータを読み取ってGoogle Sheetに記録するプログラムを書く。</summary>
+</entry>
+
+<entry>
+  <title>M5StickCとMH-Z19Bで部屋の二酸化炭素を計測して記録する</title>
+  <link href="https://luckypines.com/blog/20200815-m5stickc-mhz19b"/>
+  <id>urn:uuid:64329c93-59c8-55c6-9bf9-93ef1f6469c4</id>
+  <updated>2020-08-16T14:16:51Z</updated>
+  <summary>MH-Z19BをM5StickCに接続して、CO2センサーのデータを読み取ってGoogle Sheetに記録するプログラムを書く。</summary>
+</entry>
+
+<entry>
+  <title>M5StickCでベッドサイドのランプをOn/Offする</title>
+  <link href="https://luckypines.com/blog/20200815-m5stickc-http"/>
+  <id>urn:uuid:681ca0d9-a23b-5580-acc3-cee9afb029e9</id>
+  <updated>2020-08-15T22:45:54Z</updated>
+  <summary>実際はSonoff Basic R3が楽しかったので味をしめて、何かIoT的なおもちゃでもっと遊べないかなあと思っていた。Sonoff Basic R3を調べる中で、要するにおもしろいのはESP32というWifiとBluetoothが入ったマイクロコンピュータであるのがわかったので、ESP32の開発ボードを眺めては何かできないかなあと。</summary>
 </entry>
 
 <entry>
@@ -186,11 +354,35 @@
 </entry>
 
 <entry>
+  <title>Sonoff Basic R3でセキュアなスマートホームを構築する</title>
+  <link href="https://luckypines.com/blog/2020-05-23_Sonoff-Basic-R3-------------------f5498b92027b"/>
+  <id>urn:uuid:693a8861-250b-5f5e-b518-c7ea6a65b735</id>
+  <updated>2020-05-23T21:14:59Z</updated>
+  <summary>我が家でもようやく手元のスマホでベッドサイドのランプを消せるようになりました。</summary>
+</entry>
+
+<entry>
   <title>ニューヨークで仮免を取った</title>
   <link href="https://luckypines.com/blog/2020-01-11_--------------45d1865c8b3a"/>
   <id>urn:uuid:a75c3113-a996-53fa-9309-754b6ee37856</id>
   <updated>2020-01-11T22:49:20Z</updated>
   <summary>前回からの続き。仮免を取るための筆記テストを受けるために、12月30日の朝10:30のアポイントメントをDMVのWebサイトで取った。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで仮免を取った</title>
+  <link href="https://luckypines.com/blog/2020-01-11_--------------45d1865c8b3a"/>
+  <id>urn:uuid:a75c3113-a996-53fa-9309-754b6ee37856</id>
+  <updated>2020-01-11T22:49:20Z</updated>
+  <summary>前回からの続き。仮免を取るための筆記テストを受けるために、12月30日の朝10:30のアポイントメントをDMVのWebサイトで取った。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨーク市で仮免を取ろうと思った</title>
+  <link href="https://luckypines.com/blog/2019-12-29_-------------------e3f6436b0b67"/>
+  <id>urn:uuid:3ccf0d8a-169c-56fa-8128-023fb2e706c9</id>
+  <updated>2019-12-29T16:59:24Z</updated>
+  <summary>ニューヨーク市で暮らし始めて6年。重い腰をあげて受験しようと思いました。</summary>
 </entry>
 
 <entry>
@@ -210,11 +402,35 @@
 </entry>
 
 <entry>
+  <title>Levi’s Commuter Trucker Jacket with Jacquard by Googleの袖から来たデータを機械学習してAndroidアプリで利用できるモデルを作る</title>
+  <link href="https://luckypines.com/blog/2019-07-04_Levi-s-Commuter-Trucker-Jacket-with-Jacquard-by-Google----------------Android----------------a4747b4edca5"/>
+  <id>urn:uuid:aa7f2c07-ac5c-5837-8428-51d6fb4ba74a</id>
+  <updated>2019-07-04T20:45:26Z</updated>
+  <summary>Tensorflowで作ったモデルをTensorflow Liteのモデルに変換するまでの苦労話</summary>
+</entry>
+
+<entry>
   <title>Levi’s Commuter Trucker Jacket with Jacquard by Googleの袖を手書き認識デバイスにする</title>
   <link href="https://luckypines.com/blog/2019-06-15_Levi-s-Commuter-Trucker-Jacket-with-Jacquard-by-Google----------------1ae6347c67fc"/>
   <id>urn:uuid:1aa0f048-b234-5cf1-9fbc-357dfc9f77b3</id>
   <updated>2019-06-15T15:44:21Z</updated>
   <summary>ジャケット（についてるsnap tag）からJacquardの糸に触れたときの連続的なデータを使って遊んでみる。</summary>
+</entry>
+
+<entry>
+  <title>Levi’s Commuter Trucker Jacket with Jacquard by Googleの袖を手書き認識デバイスにする</title>
+  <link href="https://luckypines.com/blog/2019-06-15_Levi-s-Commuter-Trucker-Jacket-with-Jacquard-by-Google----------------1ae6347c67fc"/>
+  <id>urn:uuid:1aa0f048-b234-5cf1-9fbc-357dfc9f77b3</id>
+  <updated>2019-06-15T15:44:21Z</updated>
+  <summary>ジャケット（についてるsnap tag）からJacquardの糸に触れたときの連続的なデータを使って遊んでみる。</summary>
+</entry>
+
+<entry>
+  <title>Levi’s Commuter Trucker Jacket with Jacquard by Googleを操る自作アプリを作る</title>
+  <link href="https://luckypines.com/blog/2019-06-01_Levi-s-Commuter-Trucker-Jacket-with-Jacquard-by-Google------------8b56fb4732d7"/>
+  <id>urn:uuid:c913399d-3a89-515e-a01f-cdd5c1c4f8e7</id>
+  <updated>2019-06-01T15:09:41Z</updated>
+  <summary>スマートジャケットからの情報を得て何かするAndroidアプリを作ってみる</summary>
 </entry>
 
 <entry>
@@ -234,11 +450,35 @@
 </entry>
 
 <entry>
+  <title>AndroidアプリとデバイスとのBluetoothでの通信内容を解析する</title>
+  <link href="https://luckypines.com/blog/2019-05-12_Android----------Bluetooth------------5844e20b5b98"/>
+  <id>urn:uuid:7883b9d1-e079-51b0-8cd9-808d275c30f6</id>
+  <updated>2019-05-12T15:43:30Z</updated>
+  <summary>Levi’s Commuter Trucker Jacket with Jacquard by Google を手に入れたの続き。</summary>
+</entry>
+
+<entry>
   <title>Levi’s Commuter Trucker Jacket with Jacquard by Google を手に入れた</title>
   <link href="https://luckypines.com/blog/2019-05-05_Levi-s-Commuter-Trucker-Jacket-with-Jacquard-by-Google--------f37ae5a4cde5"/>
   <id>urn:uuid:f70870ec-98a1-5412-9b2b-b2c89a9f3bfe</id>
   <updated>2019-05-05T22:57:12Z</updated>
   <summary>苦節4年、ついにスマート繊維を組み込んだ例のアレを手に入れて、早速少しコードを書いてみました。</summary>
+</entry>
+
+<entry>
+  <title>Levi’s Commuter Trucker Jacket with Jacquard by Google を手に入れた</title>
+  <link href="https://luckypines.com/blog/2019-05-05_Levi-s-Commuter-Trucker-Jacket-with-Jacquard-by-Google--------f37ae5a4cde5"/>
+  <id>urn:uuid:f70870ec-98a1-5412-9b2b-b2c89a9f3bfe</id>
+  <updated>2019-05-05T22:57:12Z</updated>
+  <summary>苦節4年、ついにスマート繊維を組み込んだ例のアレを手に入れて、早速少しコードを書いてみました。</summary>
+</entry>
+
+<entry>
+  <title>翻訳有害論有害論</title>
+  <link href="https://luckypines.com/blog/2019-02-12_---------e0304804cb7b"/>
+  <id>urn:uuid:a6389807-a290-5e14-8751-7de3502f9de3</id>
+  <updated>2019-02-12T15:26:17Z</updated>
+  <summary>プログラミング自体を学ぶのか特定のソフトウェアの使い方を学ぶのか。さらに例えばExcelの使い方みたいな意味でソフトウェアの使い方を学ぶのか、Javascriptのフレームワークやライブラリの使い方を学ぶのか。目的に応じて最短距離は変わると思うけど、どの場合でも「母語でない自然言…</summary>
 </entry>
 
 <entry>
@@ -258,11 +498,35 @@
 </entry>
 
 <entry>
+  <title>Sony α6000 を買った、またはEssential PH-1はいいぞ</title>
+  <link href="https://luckypines.com/blog/2018-06-02_Sony--6000---------Essential-PH-1-----de81334408d"/>
+  <id>urn:uuid:cee38b76-b49d-530d-8ac4-e50292b39451</id>
+  <updated>2018-06-02T15:32:11Z</updated>
+  <summary>Essential PH-1は買い</summary>
+</entry>
+
+<entry>
   <title>Uber Visaカードをゲットした</title>
   <link href="https://luckypines.com/blog/2018-03-25_Uber-Visa----------a9728070d622"/>
   <id>urn:uuid:ab49dc27-dcd7-55f9-ac29-8936a18b80df</id>
   <updated>2018-03-25T19:15:49Z</updated>
   <summary>追記: 2019–11–32020年2月以降、ここで書いているようなrewardsはUber Visaでは得られません。Uber関連のサービスに毎日お金を払っている方以外にはおすすめできないカードになりました。念のため追記しておきます。詳細はこちらの記事などをご参照ください。</summary>
+</entry>
+
+<entry>
+  <title>Uber Visaカードをゲットした</title>
+  <link href="https://luckypines.com/blog/2018-03-25_Uber-Visa----------a9728070d622"/>
+  <id>urn:uuid:ab49dc27-dcd7-55f9-ac29-8936a18b80df</id>
+  <updated>2018-03-25T19:15:49Z</updated>
+  <summary>追記: 2019–11–32020年2月以降、ここで書いているようなrewardsはUber Visaでは得られません。Uber関連のサービスに毎日お金を払っている方以外にはおすすめできないカードになりました。念のため追記しておきます。詳細はこちらの記事などをご参照ください。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨーク市内で引っ越し先へ入居</title>
+  <link href="https://luckypines.com/blog/2018-03-25_------------------c7e99608f41e"/>
+  <id>urn:uuid:340cc533-14dd-5efb-b496-d417ff88a35d</id>
+  <updated>2018-03-25T14:13:47Z</updated>
+  <summary>ニューヨーク市内で引っ越しの当日からの続き</summary>
 </entry>
 
 <entry>
@@ -282,11 +546,35 @@
 </entry>
 
 <entry>
+  <title>ニューヨーク市内で引っ越しの当日</title>
+  <link href="https://luckypines.com/blog/2018-03-22_-----------------bd1b22641946"/>
+  <id>urn:uuid:9063e713-a2e2-591f-837f-39761625f4cf</id>
+  <updated>2018-03-22T11:59:05Z</updated>
+  <summary>ニューヨーク市内で引っ越しの準備その3からの続き</summary>
+</entry>
+
+<entry>
   <title>ニューヨーク市内で引っ越しの準備その3</title>
   <link href="https://luckypines.com/blog/2018-03-17_------------------3-72cd85892fd1"/>
   <id>urn:uuid:8b6fb813-a837-55ae-b35b-2164ba854cfb</id>
   <updated>2018-03-17T15:40:41Z</updated>
   <summary>ニューヨーク市内で引っ越しの準備その2からの続き。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨーク市内で引っ越しの準備その3</title>
+  <link href="https://luckypines.com/blog/2018-03-17_------------------3-72cd85892fd1"/>
+  <id>urn:uuid:8b6fb813-a837-55ae-b35b-2164ba854cfb</id>
+  <updated>2018-03-17T15:40:41Z</updated>
+  <summary>ニューヨーク市内で引っ越しの準備その2からの続き。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨーク市内で引っ越しの準備その2</title>
+  <link href="https://luckypines.com/blog/2018-03-11_------------------2-ae04f126a97f"/>
+  <id>urn:uuid:9e6f1919-b33a-5e36-bbad-16d5ec6922bd</id>
+  <updated>2018-03-11T16:02:02Z</updated>
+  <summary>ニューヨーク市内で引っ越しの準備その1からの続き…なんだけど引っ越した後の話になってしまった。</summary>
 </entry>
 
 <entry>
@@ -306,11 +594,35 @@
 </entry>
 
 <entry>
+  <title>ニューヨーク市内で引っ越しの準備その1</title>
+  <link href="https://luckypines.com/blog/2018-03-11_------------------1-35e3f49ceed1"/>
+  <id>urn:uuid:aeb04842-63bd-5e64-ae1a-03fdec1e77e3</id>
+  <updated>2018-03-11T15:20:50Z</updated>
+  <summary>ニューヨーク市内で引っ越しを決めたからの続き</summary>
+</entry>
+
+<entry>
   <title>ニューヨーク市内で引っ越しを決めた</title>
   <link href="https://luckypines.com/blog/2018-03-03_------------------c07c6b753d71"/>
   <id>urn:uuid:4e809d26-0ae3-5a1a-9936-1ed21ecd4b96</id>
   <updated>2018-03-03T15:26:52Z</updated>
   <summary>ニューヨーク市内で引っ越し先を探したの続き</summary>
+</entry>
+
+<entry>
+  <title>ニューヨーク市内で引っ越しを決めた</title>
+  <link href="https://luckypines.com/blog/2018-03-03_------------------c07c6b753d71"/>
+  <id>urn:uuid:4e809d26-0ae3-5a1a-9936-1ed21ecd4b96</id>
+  <updated>2018-03-03T15:26:52Z</updated>
+  <summary>ニューヨーク市内で引っ越し先を探したの続き</summary>
+</entry>
+
+<entry>
+  <title>ニューヨーク市内で引っ越し先を探した</title>
+  <link href="https://luckypines.com/blog/2018-03-03_-------------------6d634505e7cb"/>
+  <id>urn:uuid:a7554220-6e30-53da-8e1b-8df94b326da6</id>
+  <updated>2018-03-03T14:29:44Z</updated>
+  <summary>ニューヨーク市内で引っ越しの続き</summary>
 </entry>
 
 <entry>
@@ -330,11 +642,35 @@
 </entry>
 
 <entry>
+  <title>ニューヨーク市内で引っ越し</title>
+  <link href="https://luckypines.com/blog/2018-02-11_--------------6324113a2d34"/>
+  <id>urn:uuid:6196afef-1e00-5d72-a6b6-d4e10475ca95</id>
+  <updated>2018-02-11T15:18:37Z</updated>
+  <summary>ニューヨークであれそれをしたシリーズ。</summary>
+</entry>
+
+<entry>
   <title>自転車事故のその後</title>
   <link href="https://luckypines.com/blog/2017-12-17_----------13490d2fdef1"/>
   <id>urn:uuid:70db830c-3f06-5721-8aea-5659dda64b72</id>
   <updated>2017-12-17T17:00:57Z</updated>
   <summary>ニューヨークで自転車事故にあって、鎖骨を折って、手術を受けてから2ヶ月。術後の経過は良好で、2度の通院でも特に問題なし。ただ、骨をつないでいる金属板の存在を日々感じるので、違和感が常に左肩にまとわりついている。</summary>
+</entry>
+
+<entry>
+  <title>自転車事故のその後</title>
+  <link href="https://luckypines.com/blog/2017-12-17_----------13490d2fdef1"/>
+  <id>urn:uuid:70db830c-3f06-5721-8aea-5659dda64b72</id>
+  <updated>2017-12-17T17:00:57Z</updated>
+  <summary>ニューヨークで自転車事故にあって、鎖骨を折って、手術を受けてから2ヶ月。術後の経過は良好で、2度の通院でも特に問題なし。ただ、骨をつないでいる金属板の存在を日々感じるので、違和感が常に左肩にまとわりついている。</summary>
+</entry>
+
+<entry>
+  <title>Essential PH-1 を買って1週間</title>
+  <link href="https://luckypines.com/blog/2017-12-09_Essential-PH-1-----1---5d3b0757a03c"/>
+  <id>urn:uuid:2cbff2be-e200-5e78-8eed-2a70800d1cff</id>
+  <updated>2017-12-09T19:39:52Z</updated>
+  <summary>Essential PH-1を買って1週間たちました。$300未満（購入したときのディール）でSnapdragon 835なAndroidの使い勝手とは。</summary>
 </entry>
 
 <entry>
@@ -354,11 +690,35 @@
 </entry>
 
 <entry>
+  <title>Essential PH-1 を買った</title>
+  <link href="https://luckypines.com/blog/2017-12-09_Essential-PH-1------18f33b97acd2"/>
+  <id>urn:uuid:18198563-9f5c-5932-90ce-ae4c66dd8461</id>
+  <updated>2017-12-09T15:55:49Z</updated>
+  <summary>Cyber Monday のディールで Essential PH-1 を $300 未満で買いました。</summary>
+</entry>
+
+<entry>
   <title>ニューヨークで自転車事故にあって外科手術を受けた</title>
   <link href="https://luckypines.com/blog/2017-10-02_-------------------------d8cb3ae7d810"/>
   <id>urn:uuid:a808933a-e2c6-5d9b-b43f-ba20a136b216</id>
   <updated>2017-10-02T03:57:32Z</updated>
   <summary>この話はニューヨークで自転車事故にあって鎖骨を折ったの続きです。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで自転車事故にあって外科手術を受けた</title>
+  <link href="https://luckypines.com/blog/2017-10-02_-------------------------d8cb3ae7d810"/>
+  <id>urn:uuid:a808933a-e2c6-5d9b-b43f-ba20a136b216</id>
+  <updated>2017-10-02T03:57:32Z</updated>
+  <summary>この話はニューヨークで自転車事故にあって鎖骨を折ったの続きです。</summary>
+</entry>
+
+<entry>
+  <title>ニューヨークで自転車事故にあって鎖骨を折った</title>
+  <link href="https://luckypines.com/blog/2017-10-02_-----------------------39bae6cabb2c"/>
+  <id>urn:uuid:005ffd5c-957b-588e-ab55-6f9d7bad14d7</id>
+  <updated>2017-10-02T03:39:51Z</updated>
+  <summary>この話はニューヨークで自転車事故にあって救急車で運ばれたの続きです。</summary>
 </entry>
 
 <entry>
@@ -378,6 +738,22 @@
 </entry>
 
 <entry>
+  <title>ニューヨークで自転車事故にあって救急車で運ばれた</title>
+  <link href="https://luckypines.com/blog/2017-10-02_-------------------------2d10b02652db"/>
+  <id>urn:uuid:aedda5be-8c75-578a-8ba2-08e8a0fb9698</id>
+  <updated>2017-10-02T03:32:02Z</updated>
+  <summary>序</summary>
+</entry>
+
+<entry>
+  <title>Achievement unlocked: アメリカ国内で H-1B のまま転職した（その2/2）</title>
+  <link href="https://luckypines.com/blog/2017-08-08_Achievement-unlocked----------H-1B-----------2-2--6609e6aa7d68"/>
+  <id>urn:uuid:9ac87e0b-6671-59c7-a5a5-fdba7d366a5e</id>
+  <updated>2017-08-08T01:35:14Z</updated>
+  <summary>その1からの続きです。</summary>
+</entry>
+
+<entry>
   <title>Achievement unlocked: アメリカ国内で H-1B のまま転職した（その2/2）</title>
   <link href="https://luckypines.com/blog/2017-08-08_Achievement-unlocked----------H-1B-----------2-2--6609e6aa7d68"/>
   <id>urn:uuid:9ac87e0b-6671-59c7-a5a5-fdba7d366a5e</id>
@@ -391,6 +767,22 @@
   <id>urn:uuid:f294c3d0-bdad-5cc1-831a-f3e5f15772ca</id>
   <updated>2017-08-08T01:32:47Z</updated>
   <summary>前職でそのサービスを作り始めて7年半、2013年4月に渡米して4年と1/4が経ち、そろそろ新しいチャレンジをしたい、チャンスがまだあるうちに、というわけで転職活動をしておりました。8月から新しい職場で新しい仕事を始めます。 前職の会社、経営陣、社員の皆さまには、自分の書いた汚いコードをこんなに立派なサービスに仕立て上げて、世界4カ国で数十人を雇用し、200万以上のアカウントが作られるまでに育て…</summary>
+</entry>
+
+<entry>
+  <title>Achievement unlocked: アメリカ国内で H-1B のまま転職した（1/2）</title>
+  <link href="https://luckypines.com/blog/2017-08-08_Achievement-unlocked----------H-1B---------1-2--488f6217c832"/>
+  <id>urn:uuid:f294c3d0-bdad-5cc1-831a-f3e5f15772ca</id>
+  <updated>2017-08-08T01:32:47Z</updated>
+  <summary>前職でそのサービスを作り始めて7年半、2013年4月に渡米して4年と1/4が経ち、そろそろ新しいチャレンジをしたい、チャンスがまだあるうちに、というわけで転職活動をしておりました。8月から新しい職場で新しい仕事を始めます。 前職の会社、経営陣、社員の皆さまには、自分の書いた汚いコードをこんなに立派なサービスに仕立て上げて、世界4カ国で数十人を雇用し、200万以上のアカウントが作られるまでに育て…</summary>
+</entry>
+
+<entry>
+  <title>Nexus 5X 交換顛末記</title>
+  <link href="https://luckypines.com/blog/2017-07-17_Nexus-5X-------1bb1d9c07087"/>
+  <id>urn:uuid:55a958a7-cd1c-58c4-8e3f-9c083789800e</id>
+  <updated>2017-07-17T03:29:24Z</updated>
+  <summary>昨年のPixel をスキップしてもう1年同じ端末を使い続けようと決めて、「もっさり」も「フリーズ」も我慢してきたんだが、独立記念日の前日にとうとうブートループになってしまい、OSが起動しなくなってしまった。</summary>
 </entry>
 
 <entry>
